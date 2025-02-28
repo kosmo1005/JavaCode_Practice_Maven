@@ -4,10 +4,10 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.kulushev</groupId>
-  <artifactId>GeometryLibrary</artifactId>
+  <artifactId>ThreeDimensionalShapes</artifactId>
   <packaging>jar</packaging>
   <version>1.2.0</version>
-  <name>GeometryLibrary</name>
+  <name>ThreeDimensionalShapes</name>
   <url>http://maven.apache.org</url>
 
   <parent>
@@ -24,8 +24,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
-  <build>
-    <sourceDirectory>src/main/java</sourceDirectory>
-  </build>
 </project>

@@ -14,9 +14,11 @@ public class Circle {
 
 
     public double getArea() {
-        return PI * r * r;
+        double value = PI * r * r;
+        return Math.round(value * 100.0) / 100.0;
     }
     public double getPerimeter() {
-        return 2 * PI * r;
+        double value = 2 * PI * r;
+        return Math.round(value * 100.0) / 100.0;
     }
 }

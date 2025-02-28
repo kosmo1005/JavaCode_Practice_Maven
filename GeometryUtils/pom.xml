@@ -4,10 +4,10 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.kulushev</groupId>
-  <artifactId>GeometryLibrary</artifactId>
+  <artifactId>GeometryUtils</artifactId>
   <packaging>jar</packaging>
-  <version>1.2.0</version>
-  <name>GeometryLibrary</name>
+  <version>1.1.0</version>
+  <name>GeometryUtils</name>
   <url>http://maven.apache.org</url>
 
   <parent>
@@ -15,6 +15,7 @@
     <artifactId>Practice_Maven</artifactId>
     <version>1.0.0</version>
   </parent>
+
 
   <dependencies>
     <dependency>
@@ -24,8 +25,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
-  <build>
-    <sourceDirectory>src/main/java</sourceDirectory>
-  </build>
 </project>

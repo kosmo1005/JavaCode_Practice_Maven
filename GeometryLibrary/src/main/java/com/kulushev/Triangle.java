@@ -11,9 +11,11 @@ public class Triangle {
 
     public double getArea() {
         double s = (a + b + c) / 2;
-        return Math.sqrt(s * (s - a) * (s - b) * (s - c));
+        double value = Math.sqrt(s * (s - a) * (s - b) * (s - c));
+        return Math.round(value * 100.0) / 100.0;
     }
     public double getPerimeter() {
-        return a + b + c;
+        double value = a + b + c;
+        return Math.round(value * 100.0) / 100.0;
     }
 }
