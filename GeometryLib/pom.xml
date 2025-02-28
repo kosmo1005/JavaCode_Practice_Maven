@@ -4,14 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.kulushev</groupId>
-    <artifactId>Practice_Maven</artifactId>
+    <artifactId>GeometryLib</artifactId>
     <version>1.0.0</version>
-    <packaging>pom</packaging>  <!-- Родительский проект -->
+    <packaging>pom</packaging>
 
     <modules>
-        <module>GeometryApp</module>
-        <module>GeometryLibrary</module>
         <module>GeometryUtils</module>
         <module>ThreeDimensionalShapes</module>
+        <module>TwoDimensionalShapes</module>
     </modules>
 </project>

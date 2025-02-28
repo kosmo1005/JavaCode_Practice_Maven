@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b74168a2-4d40-4c7c-bef3-5308f4d05f0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Practice_Maven.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GeometryApp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GeometryApp/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GeometryApp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GeometryApp/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GeometryApp/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GeometryApp/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GeometryApp/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GeometryApp/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kulushev/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kulushev/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kulushev/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kulushev/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeometryApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GeometryApp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/BestCodeMaker/Projects/JavaCode/Practice_Maven/GeometryApp",
+    "last_opened_file_path": "E:/BestCodeMaker/Projects/JavaCode/Practice_Maven",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,10 +66,22 @@
       <updated>1740734230635</updated>
       <workItem from="1740734231690" duration="38000" />
       <workItem from="1740735801381" duration="1978000" />
+      <workItem from="1740739557444" duration="5504000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
